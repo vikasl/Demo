@@ -1,0 +1,8 @@
+C:\ResearchProjects\MvcDemoApp\MvcDemoApp.Tests\bin\Debug\MvcDemoApp.Tests.dll.config
+C:\ResearchProjects\MvcDemoApp\MvcDemoApp.Tests\bin\Debug\MvcDemoApp.Tests.dll
+C:\ResearchProjects\MvcDemoApp\MvcDemoApp.Tests\bin\Debug\MvcDemoApp.Tests.pdb
+C:\ResearchProjects\MvcDemoApp\MvcDemoApp.Tests\bin\Debug\MvcDemoApp.dll
+C:\ResearchProjects\MvcDemoApp\MvcDemoApp.Tests\bin\Debug\MvcDemoApp.pdb
+C:\ResearchProjects\MvcDemoApp\MvcDemoApp.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\ResearchProjects\MvcDemoApp\MvcDemoApp.Tests\obj\Debug\MvcDemoApp.Tests.dll
+C:\ResearchProjects\MvcDemoApp\MvcDemoApp.Tests\obj\Debug\MvcDemoApp.Tests.pdb

@@ -1,0 +1,103 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/f:Global.asax.cs" caret="853" fromTop="23" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Content/f:Employee.css" caret="228" fromTop="18" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:AccountController.cs" caret="0" fromTop="0" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="234" fromTop="11" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Shared/f:Site.Master" caret="911" fromTop="0" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Models/f:EmployeeViewModel.cs" caret="693" fromTop="25" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="1900" fromTop="24" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1075" fromTop="31" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2275" fromTop="36" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2398" fromTop="40" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2510" fromTop="44" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2539" fromTop="32" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/f:Global.asax.cs" caret="799" fromTop="23" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="3654" fromTop="28" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="12" fromTop="1" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="670" fromTop="20" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="678" fromTop="9" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="678" fromTop="28" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="113" fromTop="10" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="346" fromTop="18" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2983" fromTop="23" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="594" fromTop="24" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="522" fromTop="11" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="1554" fromTop="34" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1673" fromTop="28" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="1389" fromTop="7" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Shared/f:Site.Master" caret="1393" fromTop="28" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1673" fromTop="29" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1967" fromTop="34" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="352" fromTop="8" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="251" fromTop="5" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Shared/f:Site.Master" caret="902" fromTop="12" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2478" fromTop="35" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2661" fromTop="19" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="1900" fromTop="24" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1673" fromTop="23" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1673" fromTop="38" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1289" fromTop="35" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.8\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="Controller`0" priority="0" />
+      <Item value="Action`0" priority="0" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="public" priority="10" />
+      <Item value="ViewResult`0" priority="1" />
+      <Item value="List" priority="0" />
+      <Item value="string" priority="6" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="char" priority="1" />
+      <Item value="int" priority="1" />
+      <Item value="ValidateRequest" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="ControllerBuilder`0" priority="1" />
+      <Item value="new" priority="4" />
+      <Item value="EmployeeList" priority="0" />
+      <Item value="List&lt;Employee&gt;" priority="0" />
+      <Item value="Employee" priority="1" />
+      <Item value="Fname" priority="1" />
+      <Item value="Lname" priority="1" />
+      <Item value="Addresss" priority="1" />
+      <Item value="Bdate" priority="1" />
+      <Item value="DateTime" priority="1" />
+      <Item value="Dno" priority="0" />
+      <Item value="Minit" priority="0" />
+      <Item value="Sex" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="View`0" priority="1" />
+      <Item value="employeeViewModel" priority="0" />
+      <Item value="GetEmployeeList`0" priority="0" />
+      <Item value="EmployeeViewModel`0" priority="0" />
+      <Item value="Html" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="ActionLink`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
