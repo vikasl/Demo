@@ -2,7 +2,7 @@
 
 namespace MvcDemoApp.Models
 {
-    public class Employee
+    public class EditEmployeeViewModel
     {
         public string Fname { get; set; }
         public char Minit { get; set; }

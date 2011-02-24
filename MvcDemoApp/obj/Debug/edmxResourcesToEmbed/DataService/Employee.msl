@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+  <EntityContainerMapping StorageEntityContainer="EmployeeModelStoreContainer" CdmEntityContainer="EmployeeEntities">
+    <EntitySetMapping Name="Departments">
+      <EntityTypeMapping TypeName="EmployeeModel.Department">
+        <MappingFragment StoreEntitySet="Department">
+          <ScalarProperty Name="Dname" ColumnName="Dname" />
+          <ScalarProperty Name="DNumber" ColumnName="DNumber" />
+          <ScalarProperty Name="MgrSsn" ColumnName="MgrSsn" />
+          <ScalarProperty Name="MgrStartDate" ColumnName="MgrStartDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Dependents">
+      <EntityTypeMapping TypeName="EmployeeModel.Dependent">
+        <MappingFragment StoreEntitySet="Dependent">
+          <ScalarProperty Name="Essn" ColumnName="Essn" />
+          <ScalarProperty Name="Dependent_name" ColumnName="Dependent_name" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="Bdate" ColumnName="Bdate" />
+          <ScalarProperty Name="Relationship" ColumnName="Relationship" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Dept_Locations">
+      <EntityTypeMapping TypeName="EmployeeModel.Dept_Locations">
+        <MappingFragment StoreEntitySet="Dept_Locations">
+          <ScalarProperty Name="Dnumber" ColumnName="Dnumber" />
+          <ScalarProperty Name="Dlocation" ColumnName="Dlocation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="EmployeeModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="Fname" ColumnName="Fname" />
+          <ScalarProperty Name="Minit" ColumnName="Minit" />
+          <ScalarProperty Name="Lname" ColumnName="Lname" />
+          <ScalarProperty Name="Ssn" ColumnName="Ssn" />
+          <ScalarProperty Name="Bdate" ColumnName="Bdate" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="Super_ssn" ColumnName="Super_ssn" />
+          <ScalarProperty Name="Dno" ColumnName="Dno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Projects">
+      <EntityTypeMapping TypeName="EmployeeModel.Project">
+        <MappingFragment StoreEntitySet="Project">
+          <ScalarProperty Name="Pname" ColumnName="Pname" />
+          <ScalarProperty Name="Pnumber" ColumnName="Pnumber" />
+          <ScalarProperty Name="Plocation" ColumnName="Plocation" />
+          <ScalarProperty Name="Dnum" ColumnName="Dnum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Works_On">
+      <EntityTypeMapping TypeName="EmployeeModel.Works_On">
+        <MappingFragment StoreEntitySet="Works_On">
+          <ScalarProperty Name="Essn" ColumnName="Essn" />
+          <ScalarProperty Name="Pno" ColumnName="Pno" />
+          <ScalarProperty Name="Hours" ColumnName="Hours" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -24,9 +24,6 @@
 
 
     </script>
-    <script id="employeeNotPresentTemplate" type="text/x-jquery-tmpl">
-        <div class="gridRow">There are no rules configured for the specified environment.</div>
-    </script>
     <script id="employeeWaitingTemplate" type="text/x-jquery-tmpl">
         <div class="gridMinimumHeight" style="width:100%;height:100%;background:white;background-image:url('<%=Url.Content("~/Content/Images/busy.gif")%>');background-repeat:no-repeat;background-position:center center"></div>
     </script>
@@ -70,6 +67,7 @@
 
                 <div class="gridRowItem gridColumnCommands">
                     <a href="#" onclick='employeeProcessor.editEmployee(${Ssn}); return false;'>[ Edit ]</a>
+                       
                 </div>
                 <div style="clear:both"></div>
             </div>

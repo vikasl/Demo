@@ -1,3 +1,4 @@
 <Modules>
   <Module PersistentId="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4" ModuleId="MvcDemoApp" />
+  <Module PersistentId="52EAA618-70BF-4482-A26C-EECFAB288108" ModuleId="MvcDemoApp.Tests" />
 </Modules>

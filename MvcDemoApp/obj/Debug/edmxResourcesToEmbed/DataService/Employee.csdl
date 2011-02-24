@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+  <EntityContainer Name="EmployeeEntities">
+    <EntitySet Name="Departments" EntityType="EmployeeModel.Department" />
+    <EntitySet Name="Dependents" EntityType="EmployeeModel.Dependent" />
+    <EntitySet Name="Dept_Locations" EntityType="EmployeeModel.Dept_Locations" />
+    <EntitySet Name="Employees" EntityType="EmployeeModel.Employee" />
+    <EntitySet Name="Projects" EntityType="EmployeeModel.Project" />
+    <EntitySet Name="Works_On" EntityType="EmployeeModel.Works_On" />
+  </EntityContainer>
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="DNumber" />
+    </Key>
+    <Property Name="Dname" Type="String" Nullable="false" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="DNumber" Type="Int32" Nullable="false" />
+    <Property Name="MgrSsn" Type="String" Nullable="false" MaxLength="9" Unicode="false" FixedLength="true" />
+    <Property Name="MgrStartDate" Type="DateTime" />
+  </EntityType>
+  <EntityType Name="Dependent">
+    <Key>
+      <PropertyRef Name="Essn" />
+      <PropertyRef Name="Dependent_name" />
+    </Key>
+    <Property Name="Essn" Type="String" Nullable="false" MaxLength="9" Unicode="false" FixedLength="true" />
+    <Property Name="Dependent_name" Type="String" Nullable="false" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="Sex" Type="String" MaxLength="1" Unicode="false" FixedLength="true" />
+    <Property Name="Bdate" Type="DateTime" />
+    <Property Name="Relationship" Type="String" MaxLength="8" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Dept_Locations">
+    <Key>
+      <PropertyRef Name="Dnumber" />
+      <PropertyRef Name="Dlocation" />
+    </Key>
+    <Property Name="Dnumber" Type="Int32" Nullable="false" />
+    <Property Name="Dlocation" Type="String" Nullable="false" MaxLength="15" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Ssn" />
+    </Key>
+    <Property Name="Fname" Type="String" Nullable="false" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="Minit" Type="String" MaxLength="1" Unicode="false" FixedLength="true" />
+    <Property Name="Lname" Type="String" Nullable="false" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="Ssn" Type="String" Nullable="false" MaxLength="9" Unicode="false" FixedLength="true" />
+    <Property Name="Bdate" Type="DateTime" />
+    <Property Name="Address" Type="String" MaxLength="30" Unicode="false" FixedLength="false" />
+    <Property Name="Sex" Type="String" MaxLength="1" Unicode="false" FixedLength="true" />
+    <Property Name="Salary" Type="Int32" />
+    <Property Name="Super_ssn" Type="String" MaxLength="9" Unicode="false" FixedLength="true" />
+    <Property Name="Dno" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="Pnumber" />
+    </Key>
+    <Property Name="Pname" Type="String" Nullable="false" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="Pnumber" Type="Int32" Nullable="false" />
+    <Property Name="Plocation" Type="String" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="Dnum" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Works_On">
+    <Key>
+      <PropertyRef Name="Essn" />
+      <PropertyRef Name="Pno" />
+    </Key>
+    <Property Name="Essn" Type="String" Nullable="false" MaxLength="9" Unicode="false" FixedLength="true" />
+    <Property Name="Pno" Type="Int32" Nullable="false" />
+    <Property Name="Hours" Type="Int32" />
+  </EntityType>
+</Schema>

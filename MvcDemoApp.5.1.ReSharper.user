@@ -9,46 +9,59 @@
   <RecentFiles>
     <RecentFiles>
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/f:Global.asax.cs" caret="853" fromTop="23" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Content/f:Employee.css" caret="228" fromTop="18" />
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:AccountController.cs" caret="0" fromTop="0" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="234" fromTop="11" />
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Shared/f:Site.Master" caret="911" fromTop="0" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Models/f:EmployeeViewModel.cs" caret="693" fromTop="25" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="1900" fromTop="24" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1075" fromTop="31" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Content/f:Employee.css" caret="2424" fromTop="29" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Models/f:Employee.cs" caret="517" fromTop="18" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Models/f:EmployeeViewModel.cs" caret="219" fromTop="11" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Models/f:AccountModels.cs" caret="243" fromTop="0" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EditEmployee.aspx" caret="2357" fromTop="35" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2718" fromTop="7" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1798" fromTop="38" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/f:Web.Debug.config" caret="1264" fromTop="28" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/f:Web.config" caret="0" fromTop="0" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:Employee.Designer.cs" caret="28545" fromTop="24" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:IEmployeeRepository.cs" caret="331" fromTop="13" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:App.config" caret="0" fromTop="0" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/d:Controllers/f:AccountControllerTest.cs" caret="0" fromTop="0" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/d:Controllers/f:EmploeeControllerTest.cs" caret="0" fromTop="0" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/d:Controllers/f:HomeControllerTest.cs" caret="0" fromTop="0" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:TestRepository.cs" caret="1843" fromTop="53" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:EmployeeRepository.cs" caret="397" fromTop="15" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="1178" fromTop="36" />
     </RecentFiles>
     <RecentEdits>
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2275" fromTop="36" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2398" fromTop="40" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2510" fromTop="44" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2539" fromTop="32" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/f:Global.asax.cs" caret="799" fromTop="23" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="3654" fromTop="28" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="12" fromTop="1" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="670" fromTop="20" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="678" fromTop="9" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="678" fromTop="28" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="113" fromTop="10" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="346" fromTop="18" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2983" fromTop="23" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="594" fromTop="24" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="522" fromTop="11" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="1554" fromTop="34" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1673" fromTop="28" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="1389" fromTop="7" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Shared/f:Site.Master" caret="1393" fromTop="28" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1673" fromTop="29" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1967" fromTop="34" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="352" fromTop="8" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="251" fromTop="5" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Shared/f:Site.Master" caret="902" fromTop="12" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2478" fromTop="35" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2661" fromTop="19" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="1900" fromTop="24" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1673" fromTop="23" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1673" fromTop="38" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1289" fromTop="35" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1798" fromTop="38" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:EmployeeRepository.cs" caret="126" fromTop="14" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:EmployeeRepository.cs" caret="50" fromTop="2" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:EmployeeRepository.cs" caret="386" fromTop="24" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:EmployeeRepository.cs" caret="550" fromTop="29" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:EmployeeRepository.cs" caret="684" fromTop="35" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:EmployeeRepository.cs" caret="805" fromTop="40" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:EmployeeRepository.cs" caret="902" fromTop="35" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:EmployeeRepository.cs" caret="920" fromTop="47" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:EmployeeRepository.cs" caret="220" fromTop="7" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:EmployeeRepository.cs" caret="126" fromTop="6" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/d:Controllers/f:AccountControllerTest.cs" caret="0" fromTop="0" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="510" fromTop="11" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:TestRepository.cs" caret="253" fromTop="11" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:TestRepository.cs" caret="314" fromTop="15" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:TestRepository.cs" caret="439" fromTop="20" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:TestRepository.cs" caret="1561" fromTop="42" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:TestRepository.cs" caret="337" fromTop="15" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:TestRepository.cs" caret="1664" fromTop="36" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:TestRepository.cs" caret="1953" fromTop="29" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:TestRepository.cs" caret="2069" fromTop="34" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:TestRepository.cs" caret="2137" fromTop="39" />
+      <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:TestRepository.cs" caret="1843" fromTop="28" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="679" fromTop="42" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="343" fromTop="11" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="392" fromTop="13" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="679" fromTop="16" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="884" fromTop="30" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="956" fromTop="21" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="1178" fromTop="36" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -67,37 +80,102 @@
       <Item value="Controller`0" priority="0" />
       <Item value="Action`0" priority="0" />
       <Item value="IDictionary" priority="0" />
-      <Item value="public" priority="10" />
+      <Item value="public" priority="12" />
       <Item value="ViewResult`0" priority="1" />
-      <Item value="List" priority="0" />
-      <Item value="string" priority="6" />
+      <Item value="List" priority="2" />
+      <Item value="string" priority="7" />
       <Item value="DateTime`0" priority="0" />
       <Item value="char" priority="1" />
-      <Item value="int" priority="1" />
+      <Item value="int" priority="2" />
       <Item value="ValidateRequest" priority="0" />
-      <Item value="var" priority="0" />
+      <Item value="var" priority="1" />
       <Item value="ControllerBuilder`0" priority="1" />
-      <Item value="new" priority="4" />
+      <Item value="new" priority="16" />
       <Item value="EmployeeList" priority="0" />
-      <Item value="List&lt;Employee&gt;" priority="0" />
-      <Item value="Employee" priority="1" />
-      <Item value="Fname" priority="1" />
-      <Item value="Lname" priority="1" />
+      <Item value="List&lt;Employee&gt;" priority="1" />
+      <Item value="Employee" priority="3" />
+      <Item value="Fname" priority="3" />
+      <Item value="Lname" priority="3" />
       <Item value="Addresss" priority="1" />
-      <Item value="Bdate" priority="1" />
-      <Item value="DateTime" priority="1" />
+      <Item value="Bdate" priority="3" />
+      <Item value="DateTime" priority="3" />
       <Item value="Dno" priority="0" />
-      <Item value="Minit" priority="0" />
+      <Item value="Minit" priority="2" />
       <Item value="Sex" priority="0" />
-      <Item value="return" priority="3" />
-      <Item value="View`0" priority="1" />
+      <Item value="return" priority="8" />
+      <Item value="View`0" priority="2" />
       <Item value="employeeViewModel" priority="0" />
       <Item value="GetEmployeeList`0" priority="0" />
       <Item value="EmployeeViewModel`0" priority="0" />
-      <Item value="Html" priority="0" />
+      <Item value="Html" priority="11" />
+      <Item value="x" priority="9" />
+      <Item value="XhtmlMobileDocType`0" priority="0" />
+      <Item value="Employee`0" priority="5" />
+      <Item value="RedirectToAction`0" priority="0" />
+      <Item value="ActionResult`0" priority="1" />
+      <Item value="HttpGet" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="employee" priority="3" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="EmployeeEntities`0" priority="0" />
+      <Item value="EmployeeEntities" priority="0" />
+      <Item value="employeeEntities" priority="4" />
+      <Item value="ssn" priority="1" />
+      <Item value="Address" priority="1" />
+      <Item value="Salary" priority="1" />
+      <Item value="Ssn" priority="1" />
+      <Item value="GetAllEmployees`0" priority="0" />
+      <Item value="employeeList" priority="3" />
+      <Item value="InitializeEmployeeList`0" priority="0" />
+      <Item value="do" priority="0" />
+      <Item value="EnvironmentVariableTarget`0" priority="1" />
+      <Item value="EmployeeRepository" priority="0" />
+      <Item value="_repository" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
-      <Item value="ActionLink`0" priority="0" />
+      <Item value="ActionLink`0" priority="1" />
+      <Item value="LabelFor`2" priority="5" />
+      <Item value="TextBoxFor`2" priority="1" />
+      <Item value="TextAreaFor`2" priority="0" />
+      <Item value="TextBox`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MvcDemoApp.Models.Employee">
+      <Item value="Fname" priority="1" />
+      <Item value="Lname" priority="1" />
+      <Item value="Salary" priority="1" />
+      <Item value="Sex" priority="1" />
+      <Item value="Ssn" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
+      <Item value="Action`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MvcDemoApp.DataService.EmployeeEntities">
+      <Item value="Employees" priority="3" />
+      <Item value="AddObject`0" priority="0" />
+      <Item value="DeleteObject`0" priority="0" />
+      <Item value="SaveChanges`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Objects.ObjectQuery`1">
+      <Item value="Where`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MvcDemoApp.DataService.Employee">
+      <Item value="Ssn" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Select`2" priority="0" />
+      <Item value="FirstOrDefault`1" priority="1" />
+      <Item value="Where`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="AsQueryable`0" priority="1" />
+      <Item value="Add`0" priority="0" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MvcDemoApp.DataService.EmployeeRepository">
+      <Item value="GetAllEmployees`0" priority="0" />
+      <Item value="GetEmployee`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

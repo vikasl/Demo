@@ -7,6 +7,6 @@ namespace MvcDemoApp.Models
     public class EmployeeViewModel
     {
 
-        public List<Employee> EmployeeList { get; set; }
+        public List<EditEmployeeViewModel> EmployeeList { get; set; }
     }
 }

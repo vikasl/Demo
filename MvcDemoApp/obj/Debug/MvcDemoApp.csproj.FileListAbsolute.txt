@@ -3,3 +3,4 @@ C:\ResearchProjects\MvcDemoApp\MvcDemoApp\bin\MvcDemoApp.dll
 C:\ResearchProjects\MvcDemoApp\MvcDemoApp\bin\MvcDemoApp.pdb
 C:\ResearchProjects\MvcDemoApp\MvcDemoApp\obj\Debug\MvcDemoApp.dll
 C:\ResearchProjects\MvcDemoApp\MvcDemoApp\obj\Debug\MvcDemoApp.pdb
+C:\ResearchProjects\MvcDemoApp\MvcDemoApp\bin\AutoMapper.dll
