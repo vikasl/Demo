@@ -7,3 +7,12 @@ C:\ResearchProjects\MvcDemoApp\MvcDemoApp.Tests\obj\Debug\ResolveAssemblyReferen
 C:\ResearchProjects\MvcDemoApp\MvcDemoApp.Tests\obj\Debug\MvcDemoApp.Tests.dll
 C:\ResearchProjects\MvcDemoApp\MvcDemoApp.Tests\obj\Debug\MvcDemoApp.Tests.pdb
 C:\ResearchProjects\MvcDemoApp\MvcDemoApp.Tests\bin\Debug\AutoMapper.dll
+C:\researchprojects\Demo\MvcDemoApp.Tests\bin\Debug\MvcDemoApp.Tests.dll.config
+C:\researchprojects\Demo\MvcDemoApp.Tests\bin\Debug\MvcDemoApp.Tests.dll
+C:\researchprojects\Demo\MvcDemoApp.Tests\bin\Debug\MvcDemoApp.Tests.pdb
+C:\researchprojects\Demo\MvcDemoApp.Tests\bin\Debug\MvcDemoApp.dll
+C:\researchprojects\Demo\MvcDemoApp.Tests\bin\Debug\AutoMapper.dll
+C:\researchprojects\Demo\MvcDemoApp.Tests\bin\Debug\MvcDemoApp.pdb
+C:\researchprojects\Demo\MvcDemoApp.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\researchprojects\Demo\MvcDemoApp.Tests\obj\Debug\MvcDemoApp.Tests.dll
+C:\researchprojects\Demo\MvcDemoApp.Tests\obj\Debug\MvcDemoApp.Tests.pdb

@@ -13,11 +13,8 @@
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:AccountController.cs" caret="0" fromTop="0" />
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Shared/f:Site.Master" caret="911" fromTop="0" />
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Content/f:Employee.css" caret="2424" fromTop="29" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Models/f:Employee.cs" caret="517" fromTop="18" />
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Models/f:EmployeeViewModel.cs" caret="219" fromTop="11" />
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Models/f:AccountModels.cs" caret="243" fromTop="0" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EditEmployee.aspx" caret="2357" fromTop="35" />
-      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EmployeeList.aspx" caret="2718" fromTop="7" />
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1798" fromTop="38" />
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/f:Web.Debug.config" caret="1264" fromTop="28" />
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/f:Web.config" caret="0" fromTop="0" />
@@ -30,6 +27,8 @@
       <File id="52EAA618-70BF-4482-A26C-EECFAB288108/f:TestRepository.cs" caret="1843" fromTop="53" />
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:DataService/f:EmployeeRepository.cs" caret="397" fromTop="15" />
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Controllers/f:EmployeeController.cs" caret="1178" fromTop="36" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:ListEmployee.aspx" caret="0" fromTop="0" />
+      <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Views/d:Employee/f:EditEmployee.aspx" caret="935" fromTop="16" />
     </RecentFiles>
     <RecentEdits>
       <File id="C5553F0F-A3C4-4339-81DC-ED6AC4A511B4/d:Scripts/f:Employee.js" caret="1798" fromTop="38" />

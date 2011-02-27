@@ -4,3 +4,9 @@ C:\ResearchProjects\MvcDemoApp\MvcDemoApp\bin\MvcDemoApp.pdb
 C:\ResearchProjects\MvcDemoApp\MvcDemoApp\obj\Debug\MvcDemoApp.dll
 C:\ResearchProjects\MvcDemoApp\MvcDemoApp\obj\Debug\MvcDemoApp.pdb
 C:\ResearchProjects\MvcDemoApp\MvcDemoApp\bin\AutoMapper.dll
+C:\researchprojects\Demo\MvcDemoApp\bin\MvcDemoApp.dll
+C:\researchprojects\Demo\MvcDemoApp\bin\MvcDemoApp.pdb
+C:\researchprojects\Demo\MvcDemoApp\bin\AutoMapper.dll
+C:\researchprojects\Demo\MvcDemoApp\obj\Debug\ResolveAssemblyReference.cache
+C:\researchprojects\Demo\MvcDemoApp\obj\Debug\MvcDemoApp.dll
+C:\researchprojects\Demo\MvcDemoApp\obj\Debug\MvcDemoApp.pdb
